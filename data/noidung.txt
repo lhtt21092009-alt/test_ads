@@ -1,0 +1,11 @@
+TITLE: Bí kíp tối ưu hóa Android cho game thủ 2026
+---
+CONTENT:
+# Chương 1: Mở đầu
+Đây là nội dung câu chuyện hoặc bài báo của ông. 
+Ông có thể dùng định dạng Markdown ở đây thoải mái.
+* Dòng 1: Tối ưu Ram
+* Dòng 2: Tắt ứng dụng chạy ngầm
+
+[Đọc tiếp phần 2 tại đây](/get-ads)
+---
